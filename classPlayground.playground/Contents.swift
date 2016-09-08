@@ -1,5 +1,5 @@
 //: This IOS playground shows how to use a class.
-
+// This has been tested on xcode8
 import UIKit
 
 //: a class named NamedShape has a variable name and a function called
